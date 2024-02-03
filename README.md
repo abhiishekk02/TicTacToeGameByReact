@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+This React-based game offers both single and multiplayer modes, accompanied by stunning themes that elevate the visual experience. With seamless gameplay and captivating aesthetics, this web application promises an engaging gaming experience for users.
+
 ## Available Scripts
 
 In the project directory, you can run:
